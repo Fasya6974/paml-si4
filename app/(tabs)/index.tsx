@@ -6,6 +6,7 @@ const App = () => {
     <View style={styles.container}>
       <Text style={styles.text}>Hai Aku Fasya</Text>
       <Text style={styles.text}>Mahasiswa Sistem Informasi</Text>
+      <Text style={styles.text}>Fakultas Sains dan Teknologi</Text>
     </View>
   );
 };
